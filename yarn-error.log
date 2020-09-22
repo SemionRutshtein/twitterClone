@@ -1,0 +1,27 @@
+Arguments: 
+  /usr/local/bin/node /usr/local/Cellar/yarn/1.22.5/libexec/bin/yarn.js add redux redux-saga reselect immer
+
+PATH: 
+  /Library/Frameworks/Python.framework/Versions/3.7/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin
+
+Yarn version: 
+  1.22.5
+
+Node version: 
+  13.2.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: connect ECONNREFUSED 104.16.17.35:443
+      at TCPConnectWrap.afterConnect [as oncomplete] (net.js:1134:14)
+
+npm manifest: 
+  No manifest
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
